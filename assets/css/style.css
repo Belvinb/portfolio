@@ -763,6 +763,10 @@ section .container {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  
+}
+.portfolio-img{
+  height: 230px;
 }
 
 .portfolio #portfolio-flters {
